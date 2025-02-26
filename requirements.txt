@@ -1,4 +1,5 @@
-opencv-python
-streamlit
+streamlit 
+opencv-python 
+streamlit-webrtc 
+pyzbar 
 numpy
-pillow
