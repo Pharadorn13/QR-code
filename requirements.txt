@@ -5,4 +5,4 @@ pyzbar
 numpy
 pillow
 pybase64
-io
+Python-IO
